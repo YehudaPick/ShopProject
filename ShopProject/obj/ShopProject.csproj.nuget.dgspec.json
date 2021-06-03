@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/ShopProject.csproj": {}
+    "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/ShopProject.csproj": {}
   },
   "projects": {
-    "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/ShopProject.csproj": {
+    "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/ShopProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/ShopProject.csproj",
+        "projectUniqueName": "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/ShopProject.csproj",
         "projectName": "ShopProject",
-        "projectPath": "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/ShopProject.csproj",
+        "projectPath": "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/ShopProject.csproj",
         "packagesPath": "/Users/yehuda.pick/.nuget/packages/",
-        "outputPath": "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/obj/",
+        "outputPath": "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/yehuda.pick/.config/NuGet/NuGet.Config"

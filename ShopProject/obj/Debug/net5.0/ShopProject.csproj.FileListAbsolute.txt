@@ -1,0 +1,8 @@
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.csprojAssemblyReference.cache
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.AssemblyInfoInputs.cache
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.AssemblyInfo.cs
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.csproj.CoreCompileInputs.cache
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.MvcApplicationPartsAssemblyInfo.cache
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.RazorAssemblyInfo.cache
+/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/obj/Debug/net5.0/ShopProject.RazorAssemblyInfo.cs

@@ -63,6 +63,16 @@ namespace ShopProject.Controllers
             return View(product);
         }
 
+        // GET: Products/Create
+        public IActionResult Edit()
+        {
+            if (HttpContext.Session.GetString("userName") == null || !HttpContext.Session.GetString("userName").Equals("admin"))
+            {
+                return View("../Products/Index", _context.Product);
+            }
+            return View();
+        }
+
 
         // POST: Products/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
@@ -74,11 +84,6 @@ namespace ShopProject.Controllers
             if (HttpContext.Session.GetString("userName") == null || !HttpContext.Session.GetString("userName").Equals("admin"))
             {
                 return View("../Products/Index", _context.Product);
-            }
-
-            if (id != product.Id)
-            {
-                return NotFound();
             }
 
             if (ModelState.IsValid)
@@ -110,10 +115,6 @@ namespace ShopProject.Controllers
             if (HttpContext.Session.GetString("userName") == null || !HttpContext.Session.GetString("userName").Equals("admin"))
             {
                 return View("../Products/Index", _context.Product);
-            }
-            if (id == null)
-            {
-                return NotFound();
             }
 
             var product = await _context.Product

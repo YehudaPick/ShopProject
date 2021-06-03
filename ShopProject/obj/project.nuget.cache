@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CK1LXkBj3YHW6U7veqx5QAjaaCmGOJ9y4s7yeneb8gRVK6kt2eWeuD07O6PdQnmClCvEjUCyj5TDbeXrol4jlg==",
+  "dgSpecHash": "rjGw6EDgNbshdqoZmvvVw3eTvpIjl7u45zB0FhQR8viY53kaWtc+cgh/zQc4bPOn9XnGuAGYafkPdLtT2CkujA==",
   "success": true,
-  "projectFilePath": "/Users/yehuda.pick/Desktop/אפלקציות אינטרנטיות/ShopProject/ShopProject/ShopProject.csproj",
+  "projectFilePath": "/Users/yehuda.pick/Projects/new/ShopProject/ShopProject/ShopProject.csproj",
   "expectedPackageFiles": [
     "/Users/yehuda.pick/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/yehuda.pick/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

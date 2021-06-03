@@ -36,10 +36,10 @@ namespace ShopProject.Controllers
                 {
                     return View("EmptyShoppingCart");
                 }
-                foreach (var producInCart2 in shopProjectContext)
-                {
-                    producInCart2.product = _context.Product.Where(product => product.Id == producInCart2.ProductId).FirstOrDefault();
-                }
+                //foreach (var producInCart2 in shopProjectContext)
+                //{
+                //    producInCart2.product = _context.Product.Where(product => product.Id == producInCart2.ProductId).FirstOrDefault();
+                //}
                 return View(await shopProjectContext.ToListAsync());
             }
             catch
